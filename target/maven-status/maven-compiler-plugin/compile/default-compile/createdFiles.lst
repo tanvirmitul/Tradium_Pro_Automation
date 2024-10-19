@@ -1,0 +1,8 @@
+base\TestBase.class
+pages\BasePage.class
+org\example\Main.class
+pages\Crypto.class
+utils\Utils.class
+pages\Fiat.class
+pages\Convert.class
+pages\Login.class
